@@ -6,6 +6,7 @@ import Author from './Author'
 import Footer from './Footer'
 import Title from './Title'
 import Clickbait from './Clickbait'
+
 class App extends Component {
   render() {
     return (
