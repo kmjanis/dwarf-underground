@@ -4,6 +4,7 @@ import Header from './Header'
 import Article from './Article'
 import Author from './Author'
 import Footer from './Footer'
+import Title from './Title'
 class App extends Component {
   render() {
     return (
@@ -12,7 +13,7 @@ class App extends Component {
         
     <main className="expanded row">
       <div className="large-8 medium-12 columns article">
-        <h2 className="article-title">Gold Madness - Fact or Fiction?</h2>
+        <Title />
         <Author />
         
         <Article />
