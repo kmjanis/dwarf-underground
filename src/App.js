@@ -27,7 +27,7 @@ class App extends Component {
           <a className="article-link" href="#">
             <i className="fa fa-share"></i>
             <span className="article-link-text">Share Post</span>
-          </a>
+          </a>0
         </div>
       </div>
       <aside className="large-4 medium-12 columns">
